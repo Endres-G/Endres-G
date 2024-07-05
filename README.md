@@ -9,6 +9,7 @@ Atualmente utilizando estas tecnologias:
 
 
 
+![](	https://github-readme-stats.vercel.app/api?username=endres-g&theme=dracula) 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=endres-g&layout=compact&theme=dracula)
 <!--
 **Endres-G/Endres-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
